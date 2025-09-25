@@ -100,4 +100,13 @@ Point is that there are over 5000 indigenous peoples, so one should be specific 
 - Minimization - Ignoring the thoughts
 - Land acknowledgement: Historical placing (Knowledge of where it is), what actions or changes are you undertaking as a result of it
 - Have settlers/dominant:
-	- Not innocence/Romanticization/Min
+	- Not think of Indigenous as fairy tales
+	- Not guilt, which centres on self, but instead move for action and change
+	- Action and long term engagement and learning of others for results rather than low effort support
+
+### What is Indigeneity?
+- Acknowledge plurality of Indigenous peoples and worldviews
+- Using and merging ways of Indigenous ways
+- Self-determination of Indigenous people for resources, political institutions, child welfare, education, learning systems
+- History of land, nature, and generations
+- Critique abuses of power including complicities (Joining in or being an accomplice in a wrongful act)
