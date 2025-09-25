@@ -77,3 +77,9 @@ Indigenous Politics:
 - UN Declaration on Right of Indigenous Peoples 
 	- international standard on how Indigenous people should treated
 	- Allows Indigenous within politics to decide whether those standards were being upheld
+
+### Indigenous Worldviews:
+- Holistic, community
+- Oral knowledge system
+- Truths about humanity, relationships, spirituality beyond scientific methods and empirical data
+- No human supremacy or p
