@@ -31,4 +31,6 @@ Point is that there are over 5000 indigenous peoples, so one should be specific 
 Indigenous Politics:
 --
 - Politics of distinct peoples, worldviews, and problems
-- Problems of Western thought: Indigenous think they have no moral agents, no property rights
+- Problems of Western thought: Indigenous think they have no moral agents(cannot tell right from wrong), no property rights, seen as orderless, lawless, and barbaric
+- Key Failure of western politic thought: principles of western thought get thrown out the window when convenient and promote supremacy, exclusion, and genocide
+- Pateman & Mills: Settler contract that justifies rule over Indigenous peoples, their property, and their lives
