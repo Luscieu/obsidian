@@ -89,8 +89,15 @@ Point is that there are over 5000 indigenous peoples, so one should be specific 
 - Self governing
 - Make colonial framework "uninvisible"
 	- Respecting the Indigenous ways
-		- Not seeming them as "old way" or pre-modern, non democractic, non scientific, no religious, or non self governing
+		- Not seeming them as "old way" or pre-modern, non democratic, non scientific, no religious, or non self governing
 - Ending outside control/dominance of lands, peoples, resources, culture
 - Challenging the norm of settlers or dominant views for ideas, values, laws, and economic systems
-- Rightfully establishing history of settler or dominant relations with Indigenous wi
-- 
+- Rightfully establishing history of settler or dominant relations with Indigenous with extraction of resource, exclusion, oppression, genocide, and current manifestations (Columbus Day, Thanksgiving)
+- Cultural appropriation of clothing, language terms, names
+	- Not understanding the culture but imitating it
+- Tokenism - A symbolic meaning to represent rather than a meaningful one
+- 'What do your people' - Representing all of a community by looking at one person who you would assume represent the entire community as if it was a cult
+- Minimization - Ignoring the thoughts
+- Land acknowledgement: Historical placing (Knowledge of where it is), what actions or changes are you undertaking as a result of it
+- Have settlers/dominant:
+	- Not innocence/Romanticization/Min
