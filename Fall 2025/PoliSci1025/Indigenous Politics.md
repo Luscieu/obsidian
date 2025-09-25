@@ -28,8 +28,8 @@ Contextually Specific:
 
 Point is that there are over 5000 indigenous peoples, so one should be specific where possible
 
-Indigenous Politics:
---
+# Indigenous Politics:
+
 - Politics of distinct peoples, worldviews, and problems
 - Problems of Western thought: Indigenous think they have no moral agents(cannot tell right from wrong), no property rights, seen as orderless, lawless, and barbaric
 - Key Failure of western politic thought: principles of western thought get thrown out the window when convenient and promote supremacy, exclusion, and genocide
@@ -82,4 +82,15 @@ Indigenous Politics:
 - Holistic, community
 - Oral knowledge system
 - Truths about humanity, relationships, spirituality beyond scientific methods and empirical data
-- No human supremacy or p
+- No human supremacy or primacy, instead is Earth-centred, Spiritual-dominant, being one with the world
+- Time is cyclical with nature, not linear
+
+### Decolonization:
+- Self governing
+- Make colonial framework "uninvisible"
+	- Respecting the Indigenous ways
+		- Not seeming them as "old way" or pre-modern, non democractic, non scientific, no religious, or non self governing
+- Ending outside control/dominance of lands, peoples, resources, culture
+- Challenging the norm of settlers or dominant views for ideas, values, laws, and economic systems
+- Rightfully establishing history of settler or dominant relations with Indigenous wi
+- 
