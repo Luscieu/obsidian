@@ -94,5 +94,6 @@ summary:
 	- political ideas about exclusion, culture,etc.
 	- political institutions how history has changed, evolved, and devolved how people become part of a nation, and how nationalism is created
 - Each ideology will make some claims about the political values of each group
+- 
 
 

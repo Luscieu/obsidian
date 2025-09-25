@@ -65,3 +65,15 @@ Indigenous Politics:
 - Historically unable to do many things that other minorities could
 - Failure of treaties and agreements
 	- Neglect of basic rights and necessities, supports, water
+	- Omission of obligations, treaties, legal rulings, compensation, omitted from history and culture
+	- Attack: land grabs, family destruction, physical/cultural/economic genocide, camps, slavery
+- Activism to correct wrongs:
+	- Land back that was wrongfully stolen
+	- idle no more - push for more active activism
+	- Violence
+	- Honouring "no" of Indigenous people, which has not been honoured in the past
+		- No led them to violence, dishonouring, and abuse
+- Changing the ways that Indigenous people
+- UN Declaration on Right of Indigenous Peoples 
+	- international standard on how Indigenous people should treated
+	- Allows Indigenous within politics to decide whether those standards were being upheld
