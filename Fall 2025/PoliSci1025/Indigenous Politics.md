@@ -134,3 +134,16 @@ Point is that there are over 5000 indigenous peoples, so one should be specific 
 - Turner: pluralized & localized
 - Historically there existed the Six Nations Confederacy
 
+- Should Indigenous claims be pursued through voting, legislative representation, law and court systems?
+	- Yes: 
+		- Enforceable rights
+		- Legal entrenched changes
+		- Laws: Rule based
+		- Justice
+	- No:
+		- Rights means relationship change
+		- Legitimize colonial systems rather than decolonizing
+		- Gives power to settler system
+		- Not self-determination/sovereignty
+		- Law should be agent centred - healing circles where the problem is fixed or made up rather than having people punished for what they did wrong to discourage future crimes
+		- Justice: reintegration & fix relations
