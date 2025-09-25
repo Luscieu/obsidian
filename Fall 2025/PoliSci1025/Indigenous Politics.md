@@ -61,3 +61,7 @@ Indigenous Politics:
 - Democracy did not exist for Indigenous people, not having them included as people, and not having the right to vote
 - They had a lack of right to own property - capitalism
 - Liberalism - Lack of right to individuality
+- Prevented from accessing resources, like education, or limited education
+- Historically unable to do many things that other minorities could
+- Failure of treaties and agreements
+	- Neglect of basic rights and necessities, supports, water
