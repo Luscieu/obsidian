@@ -110,3 +110,27 @@ Point is that there are over 5000 indigenous peoples, so one should be specific 
 - Self-determination of Indigenous people for resources, political institutions, child welfare, education, learning systems
 - History of land, nature, and generations
 - Critique abuses of power including complicities (Joining in or being an accomplice in a wrongful act)
+
+- Relationships
+	- Community and society
+	- Success comes from good extensive relations
+	- Wealth is the community betterment
+	- Non-assimilationist
+
+- Reciprocity & Responsibility
+	- Ethical commitment
+	- Nature, land, non0humans, community
+	- History, treaties, political insititions, economic systems, social relations
+
+##### What of Sovereignty & Self-determination?
+- Inherent amongst Indigenous people
+	- Not given or granted
+	- Alongside the state?
+	- or Within a state?
+- Problem: State as sovereign political unit will absorb, exclude, surveil, punish, dominator, or eliminate as if the sovereignty had declared independence
+- Exit from colonial systems altogether
+	- Markets, legislatures, voting, etc.
+- Lerma : relations to serve community
+- Turner: pluralized & localized
+- Historically there existed the Six Nations Confederacy
+
