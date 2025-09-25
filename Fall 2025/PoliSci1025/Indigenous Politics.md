@@ -47,5 +47,17 @@ Indigenous Politics:
 	- Policing, imprisoning, dispossesion of Inidgenous poeple
 	- More jailing and deaths in protests and activism showing their lack of rights
 	- Lower rates: literacy, health, shelter, clean drinking
-	- Non-impact of vote, even if they are i
-- 
+	- Non-impact of vote, even if they are included in politics, their vote and voice is often ignored
+	- Impacts of climate change: land loss, migration, land theft
+	- Governing systems ignored: Chiefs, councils, spiritual, warriors (different names but have similar roles to western politics, yet not seen as governing systems, seen instead as disorderly communities that were chaotic)
+- Doctrine of Discovery 
+	- Christian became "discoverers" had rights to land if they discovered the land
+		- Believed that the land was subservient to man
+	- Discoverers had to settle for the land to be theirs
+- Settler-Colonial populations took over the land
+- Genocide including cultural through things like residential schools
+- Land theft via exclusion like "Reservation Lands"
+	- also through property of surrounding areas that Indigenous may shift from and to as they respect nature
+- Democracy did not exist for Indigenous people, not having them included as people, and not having the right to vote
+- They had a lack of right to own property - capitalism
+- Liberalism - Lack of right to individuality
