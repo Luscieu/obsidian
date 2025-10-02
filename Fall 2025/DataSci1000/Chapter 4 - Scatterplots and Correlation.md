@@ -4,4 +4,13 @@ Scatterplot - a graphical display of relationship between two quantitative varia
 Response variable - measures an outcome of a study
 Explanatory variable - may explain or influence changes in response variable
 
-C
+Convention: explanatory variable - x axis
+		response variable - y axis
+	Title - Response vs. Explanatory
+
+Overall pattern of scatterplots:
+- Form: linear or nonlinear
+- Direction: positive or negative association
+- How closely the points follow form(strong, moderate, weak)
+
+Outlier - an individual data point that falls outside the overall pattern of the scatter plot
