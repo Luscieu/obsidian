@@ -26,4 +26,13 @@
 	- Ideology = Hegemony
 		- Dominant ideas are naturalized and legitimized
 		- Follows capitalist world view
-		- What counts as common sense
+		- What counts as common sense?
+		- Who did it serve to make that ideology correct?
+- Modern Definition
+	- A set of ideas
+	- provides basis for organized political action
+
+Three parts to any ideology:
+- Worldview of the existing order
+- Vision of the future good society
+- An explanation of how political change can and should happen
