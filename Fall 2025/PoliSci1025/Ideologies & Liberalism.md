@@ -36,3 +36,33 @@ Three parts to any ideology:
 - Worldview of the existing order
 - Vision of the future good society
 - An explanation of how political change can and should happen
+
+Classical Ideologies:
+- Liberalism
+- Conservatism
+- Socialism
+- Fascism
+- Emphasive economics, interests and social classes
+
+New Ideologies:
+- feminism
+- ecologism 
+- religious fundamentalsim
+- multiculturalism
+- stress culture, identitym individual self definition
+
+left
+- liberty
+- equality
+- community
+- optimism
+- social progress
+- economic regulation
+
+right
+- order
+- authority
+- pessimism
+- fixed
+- deregulated markets
+- suspicious
