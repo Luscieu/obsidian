@@ -17,3 +17,13 @@
 		- Promote progress & truth
 - Karl Marx & Friedrich Engels:
 	- Ideology = ruling ideas of every age are the ideas held by the ruling class
+	- Ruling illusions that conceal exploitative social relations provide a rationale for class oppression
+		- e.g. Remote work - Illusion that makes it seem "less efficient", when it actuality, it is as efficient if not more. For the reason that the ruling class have invest a lot in business buildings, which are not needed if people switch to working from home
+	- False consciousness:
+		- Makes the status quo seem natural
+			- e.g. salary today is much less comparitively to decades ago, where food and housing cost much less, but we have benefits like social media, technological convenience, and fast food
+- Antonio Gramsci:
+	- Ideology = Hegemony
+		- Dominant ideas are naturalized and legitimized
+		- Follows capitalist world view
+		- What counts as common sense
