@@ -11,6 +11,6 @@ Convention: explanatory variable - x axis
 Overall pattern of scatterplots:
 - Form: **(STRICTLY)** linear or nonlinear
 - Direction: positive or negative association
-- How closely the points follow form(strong, moderate, weak)
+- How closely the points follow form(strong, moderate, weak) - can apply even to non linear forms
 
 Outlier - an individual data point that falls outside the overall pattern of the scatter plot
