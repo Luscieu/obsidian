@@ -9,7 +9,7 @@ Convention: explanatory variable - x axis
 	Title - Response vs. Explanatory
 
 Overall pattern of scatterplots:
-- Form: linear or nonlinear
+- Form: **(STRICTLY)** linear or nonlinear
 - Direction: positive or negative association
 - How closely the points follow form(strong, moderate, weak)
 
