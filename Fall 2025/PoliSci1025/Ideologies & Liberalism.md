@@ -100,4 +100,16 @@ Origin of Liberalism:
 	- Ascribed status - Born into the status
 	- Political absolutism - No questioning of the ones in power
 - Liberalism comes from:
-	- Questioning religious conformiy
+	- Questioning religious conformity
+	- Rejecting ascribed status
+		- wanting achieved status
+		- equal opportunity
+	- Overthrowing of the absolute monarchy
+- <u>Protestant Reformation</u>
+	- Luther against Church corruption and priestly authority
+		- How one could pay the church to correct their wrongs
+	- Did not believe there needed to be a priest between people and god
+	- Believed that people could choose to believe what they what religiously - <u>Religious pluralism</u>
+	- Non-resistance to political authority
+		- However, believed in the right to overthrow rulers who do not tolerate religious pluralism
+- 
