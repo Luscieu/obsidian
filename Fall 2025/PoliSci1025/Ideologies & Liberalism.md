@@ -112,19 +112,19 @@ Origin of Liberalism:
 	- Believed that people could choose to believe what they what religiously - <u>Religious pluralism</u>
 	- Non-resistance to political authority
 		- However, believed in the right to overthrow rulers who do not tolerate religious pluralism
-- <u>England 1688</u>:
+- England 1688:
 	- Overthrowing James II & Catholicism
 	- constitutional monarchy
 		- Limits what king can do
 		- Not absolute power
 	- freedom of worship
 	- religious toleration (still within christianity)
-- <u>America 1766:</u>
+- America 1766:
 	- no taxation without representation
 		- decision making it what the tax money goes towards
 	- all men are created equal
 	- all legitimate government are there to protect human natural rights
-- <u>France 1789:</u>
+- France 1789:
 	- the rights of man and the citizen
 	- equal opportunity
 		- not guaranteed status or opportunity based on ascribed status
@@ -144,4 +144,34 @@ Origin of Liberalism:
 		- negative freedoms - negates power that others (state) have over you
 		- positive freedoms - gives power to people 
 - <u>Reason:</u>
-	- 
+	- Against paternalism
+		- against being told what to do
+	- Enlightenment and progress
+	- Promoting discussion and argument backed by evidence
+- <u>Justice:</u>
+	- Moral equality
+	- Equal citizenship
+		- Same rights, privilege
+		- All equal under the law
+	- Equal opportunity
+- <u>Toleration:</u>
+	- Secularism
+		- The state itself does not profess a religion
+		- Anybody can have any religion privately
+	- Pluralism
+
+##### What is the Liberal State?
+- Tied to the notion of the <u>Rule of Law</u>
+- State is a social contract
+	- Paying taxes
+	- Following laws
+	- Contributing to society
+
+Constitutionalism
+- Prevention of tyranny by majority
+- Separation of powers
+- Ways to keep power in check
+
+Classical Liberalism
+- Individuals are predominantly self-interested
+- Negative freedom
