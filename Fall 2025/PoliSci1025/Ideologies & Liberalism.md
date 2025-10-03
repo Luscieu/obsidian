@@ -143,3 +143,5 @@ Origin of Liberalism:
 		- People can do whatever if they do not cause others harms
 		- negative freedoms - negates power that others (state) have over you
 		- positive freedoms - gives power to people 
+- <u>Reason:</u>
+	- 
