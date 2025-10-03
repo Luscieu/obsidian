@@ -187,3 +187,12 @@ Sources of Classical Liberalism
 - Utilitarianism
 	- Utility - max happiness
 		- Classical liberalism believes that max happiness comes from freedom and rights
+
+Economic Liberalism:
+- against mercantilism
+	- seeking economic liberty where one can trade without a writ from the state
+		- in other words capitalism
+- seek an economic state where competition in marketplace is fair and efficient
+	- produces the best product efficiently
+- self interest of the producers is what delivers that best product to the public
+- free trade to benefit everybody
