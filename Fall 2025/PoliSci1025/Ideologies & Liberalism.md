@@ -92,6 +92,12 @@ Features of liberalism:
 
 Origin of Liberalism:
 - Medieval Europe:
-	- In thoses times, there was religious conformity
+	- In those times, there was <u>Religious Conformity</u>
 		- Everybody had to be catholic, or at least pretend to be
-	- F
+	- <u>Feudalism</u>
+		- Wealth flows up towards thoses of high status
+		- Power comes downs on those lower
+	- Ascribed status - Born into the status
+	- Political absolutism - No questioning of the ones in power
+- Liberalism comes from:
+	- Questioning religious conformiy
