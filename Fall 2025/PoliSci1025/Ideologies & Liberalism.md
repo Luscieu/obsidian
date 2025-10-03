@@ -138,3 +138,8 @@ Origin of Liberalism:
 	- focus on individual rather that the state or group
 	- Enlightenment, morality, freedom, dignity
 	- treat human beings never merely as means but always at the same time as ends in themselves
+- <u>Freedom:</u>
+	- Mill's harm principle
+		- People can do whatever if they do not cause others harms
+		- negative freedoms - negates power that others (state) have over you
+		- positive freedoms - gives power to people 
