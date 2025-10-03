@@ -84,3 +84,14 @@ Barry's 3 features of liberal states:
 Features of liberalism:
 - 1. No religious dogma can reasonably be held with certainty
 	- Can make no claims to say that their belief is the only reasonable one in terms of religion
+	- --> Could say that liberalism is athiest
+- 2. Every doctrine should be open to critical scrutiny
+- 3. Fundamental equality of al human beings: inequality is an artifact
+	- Cannot be put into a system where one is not naturally better than the other
+		- Inequality is constructed, liberalism is seeks to readdress inequality to explain it and make it unnatural, a socially constructed system causes inequality, and liberalism seeks to correct the system
+
+Origin of Liberalism:
+- Medieval Europe:
+	- In thoses times, there was religious conformity
+		- Everybody had to be catholic, or at least pretend to be
+	- F
