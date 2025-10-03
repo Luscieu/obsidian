@@ -132,4 +132,9 @@ Origin of Liberalism:
 		- self ruling people
 	- religious toleration
 
-### Central themes of Liber
+### Central themes of Liberalism
+- <u>Individualism:</u>
+	- Primacy of the individual
+	- focus on individual rather that the state or group
+	- Enlightenment, morality, freedom, dignity
+	- treat human beings never merely as means but always at the same time as ends in themselves
