@@ -66,3 +66,21 @@ right
 - fixed
 - deregulated markets
 - suspicious
+
+## Liberalism
+- aim to promote individual liberty
+- values liberty - state of being free within the society from oppressive restrictions imposed on authority
+- liberalism often varies from disagreement from nature of liberty and degree of freedom that people should have
+
+Barry's 3 features of liberal states:
+- 1. Religious toleration
+	- Various religions is free to exist
+	- Nobody is forced to join any
+- 2. Freedom of the press
+	- Freedom of speech and investigation
+- 3. Abolition of servile social status
+	- No forced status of servant
+
+Features of liberalism:
+- 1. No religious dogma can reasonably be held with certainty
+	- Can make no claims to say that their belief is the only reasonable one in terms of religion
