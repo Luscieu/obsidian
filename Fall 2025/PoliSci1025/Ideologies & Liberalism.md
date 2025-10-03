@@ -174,4 +174,16 @@ Constitutionalism
 
 Classical Liberalism
 - Individuals are predominantly self-interested
-- Negative freedom
+- Negative freedom - freedom from external powers outside of a few exceptions
+- The state is a "necessary evil"
+- Civil society is important
+
+Sources of Classical Liberalism
+- 1. Natural Rights
+	- The state should exist to to protect the very minimal natural rights
+		- Property and public order
+	- Defence
+	- Contract enforcement
+- Utilitarianism
+	- Utility - max happiness
+		- Classical liberalism believes that max happiness comes from freedom and rights
