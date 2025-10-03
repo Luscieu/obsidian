@@ -115,3 +115,21 @@ Origin of Liberalism:
 - <u>England 1688</u>:
 	- Overthrowing James II & Catholicism
 	- constitutional monarchy
+		- Limits what king can do
+		- Not absolute power
+	- freedom of worship
+	- religious toleration (still within christianity)
+- <u>America 1766:</u>
+	- no taxation without representation
+		- decision making it what the tax money goes towards
+	- all men are created equal
+	- all legitimate government are there to protect human natural rights
+- <u>France 1789:</u>
+	- the rights of man and the citizen
+	- equal opportunity
+		- not guaranteed status or opportunity based on ascribed status
+	- constitutional government
+		- self ruling people
+	- religious toleration
+
+### Central themes of Liber
