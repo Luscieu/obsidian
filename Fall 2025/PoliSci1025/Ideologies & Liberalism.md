@@ -219,5 +219,24 @@ Economic Liberalism:
 	- gives handouts to people who "don't deserve it"
 - people should just learn to survive and adapt
 - Society is too complex to be controlled in the way the government want
+
+### Modern Liberalism
+- Government more that necessary evil
+	- can advance individual liberty by promoting equal opportunities for all
+- Negative freedom - absence of restraint
+- Positive freedom: actual ability to do something worth doing
+- Obstacle to freedom
+	- poverty
+	- ignorance
+	- prejudice
+	- sickness
+- Government can promote freedom through poor relief, public schools and hospitals, and regulation of working condition
+
+#### The Welfare State
+- Rights:
+	- Civil
+	- Political
+	- Social
+	- Economics
 - 
 
