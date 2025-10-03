@@ -196,3 +196,19 @@ Economic Liberalism:
 	- produces the best product efficiently
 - self interest of the producers is what delivers that best product to the public
 - free trade to benefit everybody
+- Is meant to benefit the worse off
+	- rather than being an indentured servant, gets reimbursement for labor
+- conducive to order, good government, liberty and security
+	- promotes peaceful relations
+	- requires maintaining personal relations for long term benefits
+	- contracts reinforces authority of the state
+	- liberty in freedom to produce and sell what you want
+	- security in that it cannot be taken away by those above in status
+- fosters economic self reliance
+- required public education to certain degree
+- would force government to provide infrastructure needed for business
+- taxation to benefit poor
+- gives the poor a chance
+
+#### Social Darwinism
+- Social evolution
