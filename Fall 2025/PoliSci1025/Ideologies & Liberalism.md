@@ -212,3 +212,12 @@ Economic Liberalism:
 
 #### Social Darwinism
 - Social evolution
+	- survival of the fittest
+- Absolute property rights
+	- No taxation or redistribution to the poor
+- Ineffectiveness and corruption of welfare programs
+	- gives handouts to people who "don't deserve it"
+- people should just learn to survive and adapt
+- Society is too complex to be controlled in the way the government want
+- 
+
