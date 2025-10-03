@@ -112,4 +112,6 @@ Origin of Liberalism:
 	- Believed that people could choose to believe what they what religiously - <u>Religious pluralism</u>
 	- Non-resistance to political authority
 		- However, believed in the right to overthrow rulers who do not tolerate religious pluralism
-- 
+- <u>England 1688</u>:
+	- Overthrowing James II & Catholicism
+	- constitutional monarchy
