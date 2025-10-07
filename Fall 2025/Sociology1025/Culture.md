@@ -1,6 +1,19 @@
 - Culture: everything that we as a species create
 	- both material physical things made
+		- tools and technology that enable people to accomplish tasks
 	- and non physical things
-		- e.g. values, norms, sanctions
+		- e.g. values, norms, sanctions, symbols
+			- abstract elements
+		- language
+	- Becomes internalized by the members of each such society
+		- process of external
 	- Defines what is important and unimportant
+	- gives meaning for everything that can be sensed
+- Cultural lag: occurs when peoples value's change more slowly that their technologies do
+	- example lack of rights regarding source materials of generative A.I.
+		- we couldn't develop values that prevented face, voice, body, or art from being replicated by A.I. as it developed too quickly as was far too useful
 - Society: a collective of interacting people share a culture and, usually, a territory
+- Symbol: anything that meaningfully represents something else
+	- there is no meaning inherent in objects, we have to give each object a meaning
+		- e.g. a chair is for sitting
+	- we can know the oth
