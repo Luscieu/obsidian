@@ -6,7 +6,7 @@
 			- abstract elements
 		- language
 	- Becomes internalized by the members of each such society
-		- process of external
+		- process of external to internal beliefs
 	- Defines what is important and unimportant
 	- gives meaning for everything that can be sensed
 - Cultural lag: occurs when peoples value's change more slowly that their technologies do
@@ -16,4 +16,7 @@
 - Symbol: anything that meaningfully represents something else
 	- there is no meaning inherent in objects, we have to give each object a meaning
 		- e.g. a chair is for sitting
-	- we can know the oth
+- Language: a set of symbols that expresses ideas enables people to think and communicate with one another
+	- Sapir-Whorf Thesis: 
+		- structure of language determines a native speaker's perception of categorization of experience as
+			- language describes and shapes reality
