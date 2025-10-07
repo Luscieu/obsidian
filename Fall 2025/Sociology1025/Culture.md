@@ -20,3 +20,8 @@
 	- Sapir-Whorf Thesis: 
 		- structure of language determines a native speaker's perception of categorization of experience as
 			- language describes and shapes reality
+- Values: ideas about what is right and wrong, good and bad, beautiful and ugly
+	- Ideas about things that are otherwise subjective
+- Value contradictions: values that conflict or are mutually exclusive
+- Ideal culture: values and standard or beaviour that people in a society profess to hold
+- Real culture: values and standard of behaviour that people actually follow
