@@ -17,5 +17,7 @@ Outlier - an individual data point that falls outside the overall pattern of the
 
 Correlation:
 $$
-r = \frac{\sum_{i=1}^{n} (x_i - \bar{x})(y_i - \bar{y})}{n-1}
+r = \frac{\sum_{i=1}^{n} (x_i - \bar{x})(y_i - \bar{y})}{n-1(s_x)(s_y)}
 $$
+Multiplies difference between sample and average, produces positive correlation when x and y are both above or below average, indicating a increasing trend in y as x $->\infty$ 
+ negative correlation when opposite occurs
