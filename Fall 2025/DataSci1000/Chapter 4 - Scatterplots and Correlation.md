@@ -14,3 +14,8 @@ Overall pattern of scatterplots:
 - How closely the points follow form(strong, moderate, weak) - can apply even to non linear forms
 
 Outlier - an individual data point that falls outside the overall pattern of the scatter plot
+
+Correlation:
+$$
+r = \frac{\sum_{i=1}^{n} (x_i - \bar{x})(y_i - \bar{y})}{n-1}
+$$
