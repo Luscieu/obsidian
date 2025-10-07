@@ -26,6 +26,10 @@
 - Ideal culture: values and standard or beaviour that people in a society profess to hold
 - Real culture: values and standard of behaviour that people actually follow
 - Norms: generally accepted ways of doing things
+	- Folkways: norms by social preference
+	- Mores: norms essential for survival
+	- Taboos: strongest norms, when a taboo is violated, community shuns, punishment is severe
+	- Laws: norms that are codified and enforced by the state through formal sanctions
 - Formal norms: norms that are written down and specific certain behaviours through laws and regulations
-- Informal norms
+- Informal norms: unwritten standards of behaviour that are generally understood
 
