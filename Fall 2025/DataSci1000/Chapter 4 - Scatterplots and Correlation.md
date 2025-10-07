@@ -26,3 +26,9 @@ correlation is:
 - Symmetric
 	- x and y and be swapped
 - Invariant to scaling and translation
+
+downsides to correlation:
+- does not imply causation
+- sensitive to outliers
+- limited to linear relationships
+- does not account for other variables
