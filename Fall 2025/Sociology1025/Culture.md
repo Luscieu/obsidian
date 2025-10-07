@@ -1,1 +1,6 @@
-- 
+- Culture: everything that we as a species create
+	- both material physical things made
+	- and non physical things
+		- e.g. values, norms, sanctions
+	- Defines what is important and unimportant
+- Society: a collective of interacting people share a culture and, usually, a territory
