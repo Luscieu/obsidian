@@ -11,7 +11,7 @@
 	- gives meaning for everything that can be sensed
 Cultural lag: occurs when peoples value's change more slowly that their technologies do
 - example lack of rights regarding source materials of generative A.I.
-	- we couldn't develop values that prevented face, voice, body, or art from being replicated by A.I. as it developed too quickly as was far too useful
+	- we couldn't develop values that prevented face, voice, body, or art from being replicated by A.I. as it developed too quickly as was far too useful. we had copyright laws in place
 
 Society: a collective of interacting people share a culture and, usually, a territory
 
@@ -52,4 +52,8 @@ Cultural Universals: a common practice or belief found in every culture
 - May be universal, by expressed in different manners
 
 Culture shock & Ethnocentrism:
-- Culture Shock: the feeling of surprise and disorein
+- Culture Shock: the feeling of surprise and disorientation that is experience when people witness cultural practices different to their own
+- Ethnocentrism: the tendency for a person to judge other cultures based on their own
+
+Cultural Relativism: the belief that all cultures have equal value
+- To try to see the world as others see it
