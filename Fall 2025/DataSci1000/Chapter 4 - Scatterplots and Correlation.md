@@ -21,3 +21,8 @@ r = \frac{\sum_{i=1}^{n} (x_i - \bar{x})(y_i - \bar{y})}{n-1(s_x)(s_y)}
 $$
 Multiplies difference between sample and average, produces positive correlation when x and y are both above or below average, indicating a increasing trend in y as x $->\infty$ 
  negative correlation when opposite occurs
+ 
+correlation is:
+- Symmetric
+	- x and y and be swapped
+- Invariant to scaling and translation
