@@ -16,5 +16,9 @@ Key ideas:
 		- others (based on meritocracy) should make decision
 4. Organic Society
 	- Society is more important than the individual
-	- 
+	- People rely on each other and their roles, so the "social fabric" should not be tampered with
+	- society is sacred intergenerational covenant
+	- restrains individual
+		- to keep them from harm themself or to keep them on track
+		- p
 
