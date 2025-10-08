@@ -20,5 +20,16 @@ Key ideas:
 	- society is sacred intergenerational covenant
 	- restrains individual
 		- to keep them from harm themself or to keep them on track
-		- p
+		- people continue doing what they have already done
+		- to lift restraints of people after teaching them what to do to be successful so even when unrestrained, they continue to be successful
+5. Private Property
+	- State is to protect private property
+	- inequality is natural
+		- nothing should be redressed
+	- free market capitalism
+6. Civil Society
+	- non government associations (businesses, charitable associations)
+		- Restrains behaviour through social pressure rather than formal authority
+	- benefits to own religion
+	- social fabric is beyond the state's control
 
