@@ -47,4 +47,6 @@ Key ideas:
 	- Opposite of what is expected occurs
 2. Futility
 	- nothing good happened
+3. Jeopardy
+	- Jepa
 
