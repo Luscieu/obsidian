@@ -74,6 +74,11 @@ Key ideas:
 - State sovereignty over world government
 	- non reliance on others
 - US hegemony: necessary & unique role to spread democracy to allies
-##### Liberal New Right:
+##### Liberal New Right
 - Private = good; public = bad
-- eco
+- economic and social individualism
+##### Conservative New Right
+- Social order
+- family values
+- military strength
+- nationalism
