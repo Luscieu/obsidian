@@ -34,19 +34,46 @@ Key ideas:
 	- social fabric is beyond the state's control
 	- let society govern itself with minimum interference from the state
 
-### Authoritarian Conservatism
+#### Authoritarian Conservatism
 - "Throne and Altar"
 	- Monarchy and Church as the states
 - Against enlightenment rationality
 	- people should just follow the authority
 - Authority as absolute, unknown, and terrifying
 
-### Conservative Objections to (Revolutionary) change
+#### Conservative Objections to (Revolutionary) change
 - Against reducing people to simply individuals or class
 1. Perversity
 	- Opposite of what is expected occurs
 2. Futility
 	- nothing good happened
 3. Jeopardy
-	- Jepa
+	- Jeopardizes current policies and standards
 
+#### Libertarian Conservatism
+- Reject traditional conservative emphasis on tradition, authority, and organic society
+- Defends
+	- private property
+	- free market economy
+	- strong state for public order
+
+#### Social/Cultural Conservatism
+- Preserve national values & traditions
+- Traditional morality & values
+- Religion over secularism
+	- value the idea that of god or scripture 
+	- religion should align with state
+
+#### New Right
+- Mixes classical liberalism and social conservatism
+	- Combines neoliberalism and neo conservatism
+- US-driven
+- Law & Order: tough justice
+	- Enforcers of order are always in the right
+- Patriotism
+- State sovereignty over world government
+	- non reliance on others
+- US hegemony: necessary & unique role to spread democracy to allies
+##### Liberal New Right:
+- Private = good; public = bad
+- eco
