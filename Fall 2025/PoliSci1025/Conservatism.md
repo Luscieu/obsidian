@@ -32,4 +32,19 @@ Key ideas:
 		- Restrains behaviour through social pressure rather than formal authority
 	- benefits to own religion
 	- social fabric is beyond the state's control
+	- let society govern itself with minimum interference from the state
+
+### Authoritarian Conservatism
+- "Throne and Altar"
+	- Monarchy and Church as the states
+- Against enlightenment rationality
+	- people should just follow the authority
+- Authority as absolute, unknown, and terrifying
+
+### Conservative Objections to (Revolutionary) change
+- Against reducing people to simply individuals or class
+1. Perversity
+	- Opposite of what is expected occurs
+2. Futility
+	- nothing good happened
 
