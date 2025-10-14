@@ -13,3 +13,5 @@ Nature versus nurture debate
 #### Self & Socialization
 - The symbolic interactionist perspective is most influential in the theoretical perspective in informing understanding of socialization
 - Explains how individuals develop and modify their sense of self and acquire an understanding of culture through social interactions
+- Self: consists of your ideas and attitude about who you are as a independent being
+- Occurs at all stages of life
