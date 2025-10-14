@@ -7,4 +7,9 @@ Socialization: the process whereby people learn the attitudes, values, and actio
 
 Nature versus nurture debate
 - e.g. studies on isolation
-- Findings point to a mix between heredity <u></u>**and** environment
+- Findings point to a mix between heredity <u>**and**</u> environment
+- Epigenetics - interrelationship between genes & environment
+
+#### Self & Socialization
+- The symbolic interactionist perspective is most influential in the theoretical perspective in informing understanding of socialization
+- Explains how individuals develop and modify their sense of self and acquire an understanding of culture through social interactions
