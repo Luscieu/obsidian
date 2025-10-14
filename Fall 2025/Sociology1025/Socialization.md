@@ -31,3 +31,25 @@ Mead's Stages of Development
 3. Game stage: 7 years old; considers several tasks & relationships simultaneously
 	- Generalizing other: a person's image of cultural standards that they then apply to themself to get their sense of self
 
+#### The Presentation of Self
+- Impression management altering of the presentation of the self in order to  create distinctive appearances and to satisfy particular audiences 
+- Face-work: efforst of people to maintain a proper image and avoid embarrassment
+
+Primary Socialization: The childhood socialization within the family
+Secondary Socialization: learning that occurs after primary socialization, influenced by other agents of socialization (e.g. friends, teachers)
+
+Rites of Passage: rituals marking the symbolic transition from one social position to another
+- can be formal or informal; private or public
+- each status change has new rules, roles, privileges, expectations, and relationships
+- Social devaluation: a situation where a person or group is considered to have less social value
+
+Aging & Society
+- Age defines what is appropriate for and expected of people at each stage in life
+- Status based relativity - what is normal at one age might not be normal for another
+- ___
+
+Anticipatory Socialization: beginning to take on the norms and behaviours of roles to which we aspire
+- e.g. high school students prep for uni
+- associated mainly with adolescence
+
+Resocialization: the process in which powerful socializing agents deliberately cause rapid change in peoples' values, 
