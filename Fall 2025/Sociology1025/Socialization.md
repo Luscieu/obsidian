@@ -27,6 +27,7 @@ Mead's Stages of Development
 1. Preparatory stage: birth-2years old; imitates others
 	- Significant others: people who play important roles in socialization
 2. Play stage: 2-6 years old; pretend to be other people
-	- 
+	- Role taking: mentally assuming the perspective of another, thereby enabling the person to respond from the imagine viewpoint
 3. Game stage: 7 years old; considers several tasks & relationships simultaneously
 	- Generalizing other: a person's image of cultural standards that they then apply to themself to get their sense of self
+
