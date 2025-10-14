@@ -52,4 +52,14 @@ Anticipatory Socialization: beginning to take on the norms and behaviours of rol
 - e.g. high school students prep for uni
 - associated mainly with adolescence
 
-Resocialization: the process in which powerful socializing agents deliberately cause rapid change in peoples' values, 
+Resocialization: the process in which powerful socializing agents deliberately cause rapid change in peoples' values, roles, and self conception, sometimes against their will
+- e.g. think assimilation and residential schools
+
+Toal Institutions: Complete isolation from larger society. Under strict control and supervision.
+e.g. prison
+- All aspects of life are under control
+- Others are in same circumstances (aside from specialized staff)
+- Rules and schedules made and forced upon participants
+- Provides for basic needs of its members
+- Strips people of their individuality
+- Uses degradation ceremonies to humiliate people making them less rebellious and more conforming
