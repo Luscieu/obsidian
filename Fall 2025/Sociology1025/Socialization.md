@@ -46,7 +46,8 @@ Rites of Passage: rituals marking the symbolic transition from one social positi
 Aging & Society
 - Age defines what is appropriate for and expected of people at each stage in life
 - Status based relativity - what is normal at one age might not be normal for another
-- ___
+- Chronological Age - The age of a person since birth
+- Functional Age - The age of a person, we assume through physical features, mental abilities, characteristics, habits, and behaviour
 
 Anticipatory Socialization: beginning to take on the norms and behaviours of roles to which we aspire
 - e.g. high school students prep for uni
