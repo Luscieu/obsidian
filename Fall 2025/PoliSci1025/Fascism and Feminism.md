@@ -96,3 +96,9 @@ Feminists Justice:
 - Equity
 	- Radical & Socialists seek liberation: seek fairness in power relationships: society & economics & political structures
 
+Liberal Feminism:
+- Overcome overt discrimination
+	- e.g. opportunites available to men (political, education, etc.)
+- Change laws and institutions 
+- Goal: equalize opportunities for men and women
+- 
