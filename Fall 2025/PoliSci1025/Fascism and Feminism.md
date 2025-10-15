@@ -37,3 +37,14 @@ Fascism:
 - Individuals can be sacrificed for the state, worship the state
 
 #### Hitler's Nazism
+Two explanations for Hitler's rise to power
+- Economic situation of Germany after WW1, his solution to get the economy better
+- Charismatic enough to be the major leader
+	- Lead people to become one
+		- the state becomes one
+			- people did not care what he planned to do with power, only knowing they wanted to work for him
+
+- Resentment towards other countries as a result of end of WW1
+	- gives rise to national unity against others
+- German people ("Volk") must defeat Jews, Communists, and Liberals who promote ideas of universal brotherhood
+- 
