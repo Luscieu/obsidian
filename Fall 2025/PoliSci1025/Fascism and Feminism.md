@@ -25,3 +25,15 @@ Fascism:
 	- built around one major leader
 - Mass mobilization through monopolistic political party
 	- removes democracy after coming into power
+- Destroy intermediate organizations that don't follow its rules
+- Abolition of privacy through surveillance
+	- Everyone is to report anything or anybody that might harm the nation or its interests
+- Rule of law replaced by arbitrary violence (leader)
+
+#### Mussolini's Fascism
+- National unity
+- Liberalism - no, people should not be free to do what they want, they should be obedient and loyal to the state
+- Leader leads through celebration of war and violence
+- Individuals can be sacrificed for the state, worship the state
+
+#### Hitler's Nazism
