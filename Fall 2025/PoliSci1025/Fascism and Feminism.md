@@ -101,4 +101,20 @@ Liberal Feminism:
 	- e.g. opportunites available to men (political, education, etc.)
 - Change laws and institutions 
 - Goal: equalize opportunities for men and women
-- 
+
+Socialist Feminism:
+- Capitalism creates patriarchy through the system of inequality artificially created through capitalism
+- "pink collar" jobs
+- feminization of labour:
+	- more women in that industry
+	- men are pushed out
+	- wages and working conditions go down
+	- lack of women union allows costs to go down, and profits to go up
+- double burden/day - women end up doing both housework and work outside the home for income
+
+Radical Feminism:
+- Patriarchy leads to capitalism and other systems
+- Overcome sexist attitude and beliefs
+	- women internalize harmful attitude and false beliefs
+- Emphasize women's differences, should not be used to make patriarchy natural
+	- should empower them, give them c
