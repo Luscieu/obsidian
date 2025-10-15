@@ -117,4 +117,15 @@ Radical Feminism:
 - Overcome sexist attitude and beliefs
 	- women internalize harmful attitude and false beliefs
 - Emphasize women's differences, should not be used to make patriarchy natural
-	- should empower them, give them c
+	- should empower them, give them choices, and equity in their differences
+- Overthrow Patriarchy:
+	- Male bias in the debate over rules in society
+	- Empower women locally through insitutions, family, sexuality, and individuality
+- Liberation more than political and economical
+	- release from control
+		- sexualities
+		- reproductive rights
+		- family violence
+		- workplace harassments
+		- sexual violence
+- 
