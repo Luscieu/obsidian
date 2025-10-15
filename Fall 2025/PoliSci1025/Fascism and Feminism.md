@@ -88,4 +88,11 @@ Feminist view:
 	- public and private not divided as much as one thinks
 	- Empowerment of women needed = political action & changes (e.g. domestic violence, rape, jobs, education)
 
-Feminin
+Feminists Justice:
+- Equality
+	- Liberals seek equality: everybody treated the same as individuals, before the law, opportunities
+- Difference
+	- Conservatives seek maintaining differences as essential to society: women should focus on taking care of the family as a mother
+- Equity
+	- Radical & Socialists seek liberation: seek fairness in power relationships: society & economics & political structures
+
