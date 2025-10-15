@@ -70,8 +70,22 @@ Paxtons key themes:
 
 ### Feminism
 Gender = social constructions of masculinity and femininity 
-- sex $$
+- sex $\ne$ gender, sex is physical
 - imposed by society
 - may be chosen by individuals
 	- expression of identity
-- 
+- Elimination subordination of women (such as patriarchy)
+- Against patriarchy as a natural system
+
+Tradition view:
+- Politics is public
+- Family & personal relationships are private
+- "Public man" dominates the state, education, and the economy, and the family
+- "Private woman" restricted to home and family
+
+Feminist view:
+- "personal is political"
+	- public and private not divided as much as one thinks
+	- Empowerment of women needed = political action & changes (e.g. domestic violence, rape, jobs, education)
+
+Feminin
