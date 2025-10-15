@@ -63,3 +63,7 @@ Paxtons key themes:
 - One's group is a victim whose enemies must be attack while being led by the leader
 - Fear of liberalism, class conflict, and other alien forces
 - promote community integration by violence if necessary
+- need for authority leaders that embody the group's destiny
+- Leader is superior in instincts over universal reason
+- Celebration of violence and will, when devoted to the group's success
+- Right of the chosen people to dominate lesser people without restraint
