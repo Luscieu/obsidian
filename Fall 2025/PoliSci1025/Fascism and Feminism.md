@@ -47,4 +47,19 @@ Two explanations for Hitler's rise to power
 - Resentment towards other countries as a result of end of WW1
 	- gives rise to national unity against others
 - German people ("Volk") must defeat Jews, Communists, and Liberals who promote ideas of universal brotherhood
-- 
+- Need a leader
+- Nationalism - Gave people the idea that Germans were superior to others and should not be under "lesser people"
+	- Germans should be ruled over by German people, people displaced in the war should be brought back
+- Social Darwinism
+	- Some people are better than others, which should be invested in, the others should be removed (Racism and anti-Semitism)
+	- Led to Final Solution and the Holocaust
+	- What differentiates Nazism from Fascism
+
+Paxtons key themes:
+- Sense of crisis needing radical solution
+	- Fascism rises in times of crisis
+- Subordination of individuals to the group
+	- The group is powerful
+- One's group is a victim whose enemies must be attack while being led by the leader
+- Fear of liberalism, class conflict, and other alien forces
+- promote community integration by violence if necessary
