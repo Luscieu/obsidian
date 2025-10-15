@@ -67,3 +67,11 @@ Paxtons key themes:
 - Leader is superior in instincts over universal reason
 - Celebration of violence and will, when devoted to the group's success
 - Right of the chosen people to dominate lesser people without restraint
+
+### Feminism
+Gender = social constructions of masculinity and femininity 
+- sex $$
+- imposed by society
+- may be chosen by individuals
+	- expression of identity
+- 
