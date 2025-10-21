@@ -37,7 +37,9 @@ visual indicators of others' social position
 clusters of expectations about beliefs and actions appropriate for a person of particular status
 - whereas we occupy a status, we play a role
 	- Role-playing: we conform to the associated role and existing performance expectations after or as we take up a position
-- 
+- Role-making: process by which individuals generate role expectations
+- Role Ambiguity: expectations associated with a role are unclear
+- Role Set: set of various roles attached to a single status, e.g. 
 
 
 
