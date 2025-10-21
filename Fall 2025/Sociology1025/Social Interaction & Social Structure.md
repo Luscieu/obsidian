@@ -13,4 +13,21 @@ how "role performers" act in relation to others
 
 ##### Social Structure:
 stable patterns of social relations
+- Makes social interactions and relationships predictable based on environment and context
+- Provides a predefined framework and expectation for interaction
 
+##### Statuses:
+a culturally defined position or social location
+- Involves rights (privilege), duties, and expectations
+- Status set - the current statuses a person has at the time
+- Ascribed status - status defined at birth
+- Achieved Status - status achieved through efforts and choices
+
+##### Master Status:
+the main social position/status that defines ones' social identity
+- supersedes other statuses
+- confers high/low levels of personal worth on people
+
+##### Status Cues:
+visual indicators of others' social position
+- pride in status - 
