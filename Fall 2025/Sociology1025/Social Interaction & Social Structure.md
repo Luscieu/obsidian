@@ -60,7 +60,9 @@ an expectation that plays a role in bringing about what it predicts
 
 ##### Ethnomethodology:
 the study of how people make sense of what others do and say by adhering to pre-existing norms
-- background expectancies - people's shared interpretation of objects and events 
+- background expectancies - people's shared interpretation of objects and events leading to an expected action
+- breaching experiment: break presumed background expectancies of the situation to observe people's responses
+
 
 
 
