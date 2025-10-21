@@ -24,10 +24,24 @@ a culturally defined position or social location
 - Achieved Status - status achieved through efforts and choices
 
 ##### Master Status:
-the main social position/status that defines ones' social identity
+the main social position/status that defines one's social identity
 - supersedes other statuses
 - confers high/low levels of personal worth on people
 
 ##### Status Cues:
 visual indicators of others' social position
-- pride in status - 
+- pride in status - use visible means to let others know about one's status, e.g. flaunting wealth via luxury products, a badge, certificate, or piece of clothing indicating position
+- announce our accomplishments and facilitate interactions with others and how you should be treated
+
+##### Roles:
+clusters of expectations about beliefs and actions appropriate for a person of particular status
+- whereas we occupy a status, we play a role
+	- Role-playing: we conform to the associated role and existing performance expectations after or as we take up a position
+- 
+
+
+
+
+
+
+
