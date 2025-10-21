@@ -44,7 +44,23 @@ clusters of expectations about beliefs and actions appropriate for a person of p
 - Role Set: set of various roles attached to a single status, e.g. father has a role of teaching the children, being a good husband, changes relations with other women, typically calls for a man to make money
 - Role Conflict: incompatibility among roles of different statuses e.g. mother and employee status conflicts with the roles of each
 - Role Strain: incompatibility among roles of a single status e.g. professor had roles for teaching, publishing, and departmental service
-- Role Exit: disengagement from master status associated role
+- Role Exit: disengagement from master status associated role and establishment(or reestablishment) in a new role
+	- stages:
+		1. Doubt
+		2. Search for alternatives
+		3. Action or departure
+		4. Creation of new identity
+	- can be involuntary or voluntary, public or private
+
+#### Self-fulfilling Prophecy:
+an expectation that plays a role in bringing about what it predicts
+- status labels -> roles -> expectations -> a person internalizing said expectations, and it becoming real
+	- e.g. blue eye brown eye experiment where students are told they are smart or dumb, or zimbardo prison study, where students play role of prisoner or guard
+- Can be in either a positive or negative direction
+
+##### Ethnomethodology:
+the study of how people make sense of what others do and say by adhering to pre-existing norms
+- background expectancies - people's shared interpretation of objects and events 
 
 
 
