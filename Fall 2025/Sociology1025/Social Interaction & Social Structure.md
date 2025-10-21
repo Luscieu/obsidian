@@ -4,6 +4,8 @@ process by which our perception of reality is shaped by the intersubjective (sha
 - we can only see the world as we feel and interpret it, not how the world actually is
 - interacting within a pre-defined social structure is what develops our understanding of our reality
 - the extent to which a group can define social structure and reality reflects the group's power
+	- to create a fictional structure that all people can believe in allows us to cooperate and binds us together, allowing us to have a shared reality, whereas other animals communicate solely to describe reality
+		- e.g. money/currency
 
 ##### Social Interaction: 
 how "role performers" act in relation to others
@@ -39,7 +41,10 @@ clusters of expectations about beliefs and actions appropriate for a person of p
 	- Role-playing: we conform to the associated role and existing performance expectations after or as we take up a position
 - Role-making: process by which individuals generate role expectations
 - Role Ambiguity: expectations associated with a role are unclear
-- Role Set: set of various roles attached to a single status, e.g. 
+- Role Set: set of various roles attached to a single status, e.g. father has a role of teaching the children, being a good husband, changes relations with other women, typically calls for a man to make money
+- Role Conflict: incompatibility among roles of different statuses e.g. mother and employee status conflicts with the roles of each
+- Role Strain: incompatibility among roles of a single status e.g. professor had roles for teaching, publishing, and departmental service
+- Role Exit: disengagement from master status associated role
 
 
 
