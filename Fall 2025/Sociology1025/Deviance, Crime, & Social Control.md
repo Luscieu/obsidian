@@ -27,9 +27,23 @@ Strain Theory:
 - assumption: society promotes legimate goas and means to achieve them
 - e.g. goal:success/means:hard work
 - 5 forms of adaptation:
+	- Conformity
 	- Innovation: reject the mean, but agree with goal
 		- e.g. drug dealer
 	- Ritualism: accept the mean, but disagree with the goal
 		- e.g. happy getting by
-	- Retreat
-		- e.g.
+	- Retreatism: reject both the mean and the goal
+		- e.g. fall out of society give up
+	- Rebellion: reject both the mean and goal and replace them
+- Strain theory happens when /there is a gap between the means and the goals, which leads to deviance
+
+Interactionist theory:
+Differential association theory
+- criminal behaviour is learnt through cultural transmission
+- deviant associations -> deviant attitudes -> deviant behaviour
+
+Labeling theory
+- deviance is not a quality it is a label that gets applied
+- labels can become a self-fulfilling prophecy
+- application and internalization of labels
+- deviant label can then become a master status
