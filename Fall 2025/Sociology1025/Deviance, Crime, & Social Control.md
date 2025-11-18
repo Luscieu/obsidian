@@ -15,3 +15,11 @@ Stigma management: ways people try to overcome a stigma
 
 Deviance is relative to culture, history and time, context or situations, status
 - The line between deviant and non-deviant can be ambiguous
+
+Functionalist Perspective:
+- Normal part of human existence, with both positive and negative consequences for stability
+- Positive aspects:
+	- Social solidarity
+	- Sets clears boundaries
+	- Raises value of conformity, unites conformed group
+	- Innovation
