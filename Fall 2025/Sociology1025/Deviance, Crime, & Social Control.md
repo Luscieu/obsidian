@@ -56,3 +56,12 @@ Conflict perspective:
 - The powerful determine what is deviant, withs laws protecting their interests
 - Activities of poor more likely to be defined as deviant or against law
 - Focuses on who is defined as deviance, who can resits sanctions, nothing to do with the social harm caused
+Social Bond Theory;
+- about social control
+- when social ties weakened, deviance becomes more likely
+- four types of bonds:
+	- attachment, to conformists others
+	- commitment, or social investment, conventional lines of behaviour
+	- involvement
+	- belief, in values
+- these bonds control us suppressing our need for gratification
