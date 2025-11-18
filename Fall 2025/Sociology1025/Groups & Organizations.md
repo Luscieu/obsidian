@@ -11,3 +11,13 @@ Out-group-opposite-no belonging
 Social Boundary Maintenance: activities used to maintain and reinforce a particular way of life
 
 Reference groups - source of identity & point of reference
+- compare to self
+
+Groupthink: cohesive group arriving at a decision where many individual members think is unwise/wrong
+
+Bystander apathy - when groups of people observe another in emergency but do not help, deferring responsibility to other bystanders
+
+Formal Organization - secondary group designed to achieve explicit objectives
+- Structured for maximum efficiency
+Bureaucracy - a component of formal organizations wheres rules and hierarchy and procedures are created for the sake of efficiency (public sees as opposite)
+Rationality - process where methods become replaced
