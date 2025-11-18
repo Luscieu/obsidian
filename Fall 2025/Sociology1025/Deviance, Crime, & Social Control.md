@@ -42,7 +42,7 @@ Differential association theory
 - criminal behaviour is learnt through cultural transmission
 - deviant associations -> deviant attitudes -> deviant behaviour
 
-Labeling theory
+Labeling theory:
 - deviance is not a quality it is a label that gets applied
 - labels can become a self-fulfilling prophecy
 - application and internalization of labels
@@ -51,3 +51,8 @@ Labeling theory
 	- hidden behaviour, no reaction from society
 - Secondary Deviance
 	- Same act, but behaviour is found out, societal reeaction occurs, consequences occur
+
+Conflict perspective:
+- The powerful determine what is deviant, withs laws protecting their interests
+- Activities of poor more likely to be defined as deviant or against law
+- Focuses on who is defined as deviance, who can resits sanctions, nothing to do with the social harm caused
