@@ -12,3 +12,6 @@ Stigma: physical or social attribute that devalues a social identity disqualifyi
 Courtesy stigma: somebody who is close to one is stigmatized, and that person also becomes stigmatized due to proximity
 Stigma management: ways people try to overcome a stigma
 - concealment
+
+Deviance is relative to culture, history and time, context or situations, status
+- The line between deviant and non-deviant can be ambiguous
