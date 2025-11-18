@@ -47,3 +47,7 @@ Labeling theory
 - labels can become a self-fulfilling prophecy
 - application and internalization of labels
 - deviant label can then become a master status
+- Primary Deviance
+	- hidden behaviour, no reaction from society
+- Secondary Deviance
+	- Same act, but behaviour is found out, societal reeaction occurs, consequences occur
