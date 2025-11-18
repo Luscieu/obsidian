@@ -20,4 +20,12 @@ Bystander apathy - when groups of people observe another in emergency but do not
 Formal Organization - secondary group designed to achieve explicit objectives
 - Structured for maximum efficiency
 Bureaucracy - a component of formal organizations wheres rules and hierarchy and procedures are created for the sake of efficiency (public sees as opposite)
-Rationality - process where methods become replaced
+1. division of labour
+2. hierarchy of authority
+3. written rules and regulations
+4. impersonality
+5. employment based on qualifications
+Rationality - process where methods become replaced by more efficient rational ones
+
+Obedience to authority: Milgram Shock experiment
+- - Behaviour that is unthinkable in an individual... acting on his own may be executed without hesitation when carried out under orders.”
