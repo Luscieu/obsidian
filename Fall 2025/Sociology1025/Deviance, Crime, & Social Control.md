@@ -19,7 +19,17 @@ Deviance is relative to culture, history and time, context or situations, status
 Functionalist Perspective:
 - Normal part of human existence, with both positive and negative consequences for stability
 - Positive aspects:
-	- Social solidarity
-	- Sets clears boundaries
-	- Raises value of conformity, unites conformed group
+	- Social solidarity, unites conformist group
+	- Sets clears boundaries, reinforces them
+	- Raises value of conformity
 	- Innovation
+Strain Theory:
+- assumption: society promotes legimate goas and means to achieve them
+- e.g. goal:success/means:hard work
+- 5 forms of adaptation:
+	- Innovation: reject the mean, but agree with goal
+		- e.g. drug dealer
+	- Ritualism: accept the mean, but disagree with the goal
+		- e.g. happy getting by
+	- Retreat
+		- e.g.
