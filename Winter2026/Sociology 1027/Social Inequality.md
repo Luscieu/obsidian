@@ -17,4 +17,11 @@ Explanation for why inequality exists:
 3. Cultural differences: lifestyles promote "inferior" values that poorer societies are assumed to have
 	1. often overlooks colonization and exploitation
 4. Psychological explanations:
-	1. 
+	1. focuses on the mind as te locus for action
+5. Sociological explanations:
+	1. not simply by individual behaviour, but by social structure
+
+Social inequality is explained by:
+- structures that shape what decisions we make (and which ones we can and cannot)
+
+- sociology examines the relationship between personal trouble and public issues
