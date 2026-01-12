@@ -8,3 +8,13 @@ Streaming - when people are placed in social environments that magnify these adv
 Differentiated experiences - unequal outcomes a results of above. ex. university admission
 
 Social Inequality: Condition and process in which preferential access to the goods are not randomly distributed but patterned around human differences that are defined as socially significant
+
+Explanation for why inequality exists:
+1. common sense: makes appeals to popular wisdom - what is commonly accepted as the truth, even if it isn't
+2. Biological determinism: suggests that genetics, and evolutionary differences between groups defines what each group has access to
+	1. human nature, naturally greedy/violent
+	2. men are more... whereas women are...
+3. Cultural differences: lifestyles promote "inferior" values that poorer societies are assumed to have
+	1. often overlooks colonization and exploitation
+4. Psychological explanations:
+	1. 
