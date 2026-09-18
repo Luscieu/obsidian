@@ -22,3 +22,4 @@ Crucial Attitudes:
 	- Suspension of judgement before evaluation of all known information
 - Cool-headedness and Impartiality
 - Analytical and Reflective
+
