@@ -23,3 +23,4 @@ Crucial Attitudes:
 - Cool-headedness and Impartiality
 - Analytical and Reflective
 
+ 
