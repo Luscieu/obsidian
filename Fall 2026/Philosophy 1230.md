@@ -23,4 +23,7 @@ Crucial Attitudes:
 - Cool-headedness and Impartiality
 - Analytical and Reflective
 
- 
+ Validity:
+ - An argument is valid when the premises cannot be true whilst the conclusion is false, i.e. the premise must be necessary and related to the conclusion
+	 - Invalid when the premises can be true but conclusion may not be
+- Sound arguments are both valid and have true premises
