@@ -3,4 +3,10 @@ we must subtract where it intersects, to remove the overlap that is counted twic
 
 for 3 probabilities, you need to subtract the union between each as well adding the union between all three back
 
-Permutation P: ${}_nP_{k} = frac{n!}(n-k)!$
+Permutation P: ${}_nP_{k} = \frac{n!}{(n-k)!}$
+- permutation is ordered, so it is used in cases without replacement as well as order
+
+Combination $\binom{n}{k} = \frac{{}_nP_{k}}{k!}= \frac{n!}{k!(n-k)!}$
+- Combinations are unordered sets of distinct objects
+	- where n is number of objects and k is number chosen for the subset
+	- dividing by k! just removes the ordered combination possibilities
