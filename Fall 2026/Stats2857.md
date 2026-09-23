@@ -10,3 +10,8 @@ Combination(read as n choose k) ${}_nC_{k}=\binom{n}{k} = \frac{{}_nP_{k}}{k!}= 
 - Combinations are unordered sets of distinct objects
 	- where n is number of objects and k is number chosen for the subset
 	- dividing by k! just removes the ordered combination possibilities
+
+Conditional Probability:
+$P(A\mid B)= \frac{P(A \cap B)}{P(B)}$ 
+- Read as the probability of A given B
+	- Given that B has already occurred, what is the probability of A
