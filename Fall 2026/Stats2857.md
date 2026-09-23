@@ -19,4 +19,9 @@ $P(A\mid B)= \frac{P(A \cap B)}{P(B)}$
 
 Total Probability Example:
 - To find P(A) when you are provided with P(B),P(A|B),P(A|B')
-- (A)
+- we know P(A)=P(A$\cap$B)+P(A$\cap B'$)
+	- then P(A)=$P(A\mid B)P(B) + P(A \mid B')P(B')$
+		- we know from complement rule $P(B') = 1 - P(B)$
+
+Bayes' Rule:
+![[Screenshot 2026-09-23 at 1.00.07 PM.png]]
