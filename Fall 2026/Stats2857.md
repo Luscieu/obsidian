@@ -15,3 +15,8 @@ Conditional Probability:
 $P(A\mid B)= \frac{P(A \cap B)}{P(B)}$ 
 - Read as the probability of A given B
 	- Given that B has already occurred, what is the probability of A
+![[Screenshot 2026-09-23 at 12.44.05 PM.png]]
+
+Total Probability Example:
+- To find P(A) when you are provided with P(B),P(A|B),P(A|B')
+- (A)
