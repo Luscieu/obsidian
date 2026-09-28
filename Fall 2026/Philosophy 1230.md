@@ -67,3 +67,6 @@ to show that some statement is true:
 - first assume it is not true
 - show that it not being true leads to so contradiction or absurd claim
 - conclude s is true
+
+Circular Arguments:
+	-Always valid
