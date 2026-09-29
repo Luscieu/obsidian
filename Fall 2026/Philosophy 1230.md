@@ -68,5 +68,15 @@ to show that some statement is true:
 - show that it not being true leads to so contradiction or absurd claim
 - conclude s is true
 
-Circular Arguments:
-	-Always valid
+Circular Arguments: conclusion is also a premise
+- Always valid
+	- since conclusion must be true if premise is true
+	- have no invalidating counterexamples
+
+Tautology:
+- a necessarily true statement
+	- e.g. "Either I like pizza or do not"
+	- always valid since conclusion is never false, so when premises are true, so is conclusion
+
+Inconsistent premises: when premises contradict
+- valid since "where all premises are true" premises contradict, require invalidating counterexample with true premises which doesnt work
