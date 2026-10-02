@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall 2026/Philosophy 1230.md",
+                "file": "Fall 2026/Stats2857.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Philosophy 1230"
+              "title": "Stats2857"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6467e6444405d2ac",
@@ -191,8 +192,10 @@
   },
   "active": "7ea189533c529e4b",
   "lastOpenFiles": [
-    "Fall 2026/CS2211A.md",
+    "Pasted image 20261002161638.png",
+    "Pasted image 20261002161459.png",
     "Fall 2026/Philosophy 1230.md",
+    "Fall 2026/CS2211A.md",
     "Fall 2026/Stats2857.md"
   ]
 }

@@ -24,4 +24,7 @@ Total Probability Example:
 		- we know from complement rule $P(B') = 1 - P(B)$
 
 Bayes' Rule:
-![[Screenshot 2026-09-23 at 1.00.07 PM.png]]
+![[Screenshot 2026-09-23 at 1.00.07 PM.png]]![[Pasted image 20261002161459.png]]
+
+Independence:
+![[Pasted image 20261002161638.png]]
