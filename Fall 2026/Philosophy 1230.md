@@ -80,3 +80,17 @@ Tautology:
 
 Inconsistent premises: when premises contradict
 - valid since "where all premises are true" premises contradict, require invalidating counterexample with true premises which doesnt work
+
+Necessary Condition:
+- For Y to be, X must be
+
+Sufficient Condition:
+- If X is, then Y must be
+
+Kinds of Possibility:
+- Logical Impossibility: Contradictory
+- Nomological impossibility: Does not follow nature
+	- Laws of nature include: true laws discovered within physics, biology, and other sciences
+- Legal impossibility
+- Moral possibility
+
