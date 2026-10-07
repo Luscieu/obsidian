@@ -94,3 +94,4 @@ Kinds of Possibility:
 - Legal impossibility
 - Moral possibility
 
+Note: Anything Nomologically possible is logically possible as the nomological possibility is a subset of logical possibility. 
