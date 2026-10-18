@@ -95,3 +95,9 @@ Kinds of Possibility:
 - Moral possibility
 
 Note: Anything Nomologically possible is logically possible as the nomological possibility is a subset of logical possibility. 
+
+Inductive and Deductive Reasoning:
+- Deductive reasonings strictly follows logics, it is what we have been learning about thus far, deductive arguments are valid, 
+- Inductive reasoning is more about probability, it is about what may be likely logically based on the premises
+- This then differentiates valid arguments and good ones
+	- Good arguments are valid or strong inductively
