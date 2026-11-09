@@ -101,3 +101,10 @@ Inductive and Deductive Reasoning:
 - Inductive reasoning is more about probability, it is about what may be likely logically based on the premises
 - This then differentiates valid arguments and good ones
 	- Good arguments are valid or strong inductively
+
+Li
+
+
+Lexical Ambiguity - Some confusion with a word and its meaning, as it may have multiple meanings. like deep meaning profound or referring to physical depth.
+
+Referential ambiguity - unclear in what is being referenced.
