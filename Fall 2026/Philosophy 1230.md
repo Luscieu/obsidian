@@ -102,9 +102,22 @@ Inductive and Deductive Reasoning:
 - This then differentiates valid arguments and good ones
 	- Good arguments are valid or strong inductively
 
-Li
+Literal Meaning vs conversational implicature
 
+Definiendum           and       definien
+^Term being defined          ^Group of words that have same meaning (The words used to define it)
+
+Reportive Definition - captures the correct usage of the word in daily use
+
+Stipulative definition - assigns a new meaning of the term 
+
+Precising definition - a type of stipulative and reportive definition that specifies an already existing definition to make it more precise and clear
+
+Persuasive defintion - any definition that includes an emotive, positive, or derogatory meaning to a term where it should have none lexically.
 
 Lexical Ambiguity - Some confusion with a word and its meaning, as it may have multiple meanings. like deep meaning profound or referring to physical depth.
+
+Definiens are wide when they apply to things that the definiendum does not. e.g. chair is furniture, but a bench isnt really furniture in most cases
+, too narrow when they fail to apply to things the definiendum applies to. These are not mutually exclusive, definitions can be too narrow and wide
 
 Referential ambiguity - unclear in what is being referenced.
