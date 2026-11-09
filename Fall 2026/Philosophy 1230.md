@@ -121,3 +121,12 @@ Definiens are wide when they apply to things that the definiendum does not. e.g.
 , too narrow when they fail to apply to things the definiendum applies to. These are not mutually exclusive, definitions can be too narrow and wide
 
 Referential ambiguity - unclear in what is being referenced.
+
+Syntactic ambiguity - having more than one meaning due to grammatical structure. e.g. "discussing violence on TV" could mean they are making the discussion on a television program as its medium, or they are discussing violence shown on television programs.
+
+Vagueness - Terms that do not have clear points/boundaries to which they apply. e.g. heavy,dark,mountain,cheap,smart
+
+Difference between vagueness and ambiguity
+- They are not the same, they can overlap, they do no need to
+- Ambiguity is about having multiple possible meanings
+- Vagueness is about having unclear meanings
