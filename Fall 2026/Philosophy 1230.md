@@ -130,3 +130,5 @@ Difference between vagueness and ambiguity
 - They are not the same, they can overlap, they do no need to
 - Ambiguity is about having multiple possible meanings
 - Vagueness is about having unclear meanings
+
+Incomplete Meaning
