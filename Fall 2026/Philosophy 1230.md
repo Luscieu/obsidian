@@ -134,6 +134,8 @@ Difference between vagueness and ambiguity
 Incomplete Meaning - Words that require context or further parameter to denote what property or relation it expresses or measures
 e.g. important or useful
 
+Inappropriate use of jargon - when the target audience is unlikely to know its meaning
+
 BS - what seems to be profound, but is nonsensical. Little content due to obscurity, yet are not nonsensical as they are grammatical and contain buzzwords
 
 
@@ -141,6 +143,7 @@ Distortion - using words that deviate from standard meaning in an mismatching co
 e.g. sarcasm, emotive connotations
 - Weasel words (an example of distortion)
 	- ordinary meaning of a word being changed in the middle of a discussion, usually in a response or counterexample
+- equivocation is to use vague ambiguous unclear languae with intent to decieve
 
 Reification - Treating an abstract idea or property as if it were a concrete physical object
 - Useful from dramatic impact in poetry or metaphors, but to be avoids when conveying information
@@ -150,7 +153,8 @@ Category mistakes - misrepresenting the category to which something belongs, or 
 Philosophical arguments and distortion of meaning - "Everyone is selfish, including people who help others. This is because everyone does what he or she wants to do.." In this argument it is implicitly assumed that a selfish person is to be defined as someone who does what he or she wants. But this is a distortion of the ordinary meaning of "a selfish person", which is more like "someone who wants to do only those things that are to his or her advantage." A person might want to do something in order to help other people, not because it is to his or her advantage. 
 
 Empty content/statements - purported to provide information, but in actuality does not
-- e.g. tautologies, 
+- e.g. tautologies like "it will rain tomorrow, or not"
+	- not good for communicating information, but useful in logic and considering options/possibilities
 
 
 
