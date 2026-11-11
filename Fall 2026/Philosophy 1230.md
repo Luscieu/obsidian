@@ -131,4 +131,5 @@ Difference between vagueness and ambiguity
 - Ambiguity is about having multiple possible meanings
 - Vagueness is about having unclear meanings
 
-Incomplete Meaning
+Incomplete Meaning - Words that require context or further parameter to denote what property or relation it expresses or measures
+e.g. important or useful
