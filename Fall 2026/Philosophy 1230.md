@@ -133,3 +133,20 @@ Difference between vagueness and ambiguity
 
 Incomplete Meaning - Words that require context or further parameter to denote what property or relation it expresses or measures
 e.g. important or useful
+
+BS - what seems to be profound, but is nonsensical. Little content due to obscurity, yet are not nonsensical as they are grammatical and contain buzzwords
+
+
+Distortion - using words that deviate from standard meaning in an mismatching context
+e.g. sarcasm, emotive connotations
+- Weasel words (an example of distortion)
+	- ordinary meaning of a word being changed in the middle of a discussion, usually in a response or counterexample
+
+
+
+
+
+
+
+
+
