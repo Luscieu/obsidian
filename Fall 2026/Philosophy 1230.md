@@ -142,6 +142,17 @@ e.g. sarcasm, emotive connotations
 - Weasel words (an example of distortion)
 	- ordinary meaning of a word being changed in the middle of a discussion, usually in a response or counterexample
 
+Reification - Treating an abstract idea or property as if it were a concrete physical object
+- Useful from dramatic impact in poetry or metaphors, but to be avoids when conveying information
+
+Category mistakes - misrepresenting the category to which something belongs, or trying to apply a feature of a category to one that is not part of said category
+
+Philosophical arguments and distortion of meaning - "Everyone is selfish, including people who help others. This is because everyone does what he or she wants to do.." In this argument it is implicitly assumed that a selfish person is to be defined as someone who does what he or she wants. But this is a distortion of the ordinary meaning of "a selfish person", which is more like "someone who wants to do only those things that are to his or her advantage." A person might want to do something in order to help other people, not because it is to his or her advantage. 
+
+Empty content/statements - purported to provide information, but in actuality does not
+- e.g. tautologies, 
+
+
 
 
 
