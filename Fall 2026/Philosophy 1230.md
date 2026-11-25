@@ -157,8 +157,66 @@ Empty content/statements - purported to provide information, but in actuality do
 	- not good for communicating information, but useful in logic and considering options/possibilities
 
 
+Scientific Methods and Theories:
+- Although nothing can be 100% proven with scientific theories, we find comfort in providing ourselves reasonable probabilities that events will occur. It is not blind faith but strong evidence that leads us to believe in these probabilities 
+- Theory is quite the broad term, it gives no respect to well developed and proven theories backed by strong evidence, making them almost inherently comparable to simple speculations. In reality, we should differentiate the validity and soundness of theories to determine how applicable they are
 
+Four steps to the hypothetical deductive method:
+1. Identify hypothesis to be tested
+2. Generate predictions for hypothesis 
+3. Use experiments to determine whether predictions are correct
+4. If predictions correct, then hypothesis is confirmed, otherwise disconfirmed
 
+A scientific hypothesis must be testable
+- any hypothesis that cannot be tested cannot be proven probable or not and hence cannot be part of scientific knowledge 
+	- e.g. Benny 1.16=1.8
+- might still be true
+
+In general, confirming the predictions of a theory increases the probability of the theory but does not conclusively prove the theory 
+
+Disconfirmation might not be falsity
+- hypotheses may generate a prediction that have additional assumptions, in these cases a failed prediction doesn’t necessarily mean the theory is likely wrong, these assumptions are called auxiliary hypotheses 
+
+Mechanism-underlying causal reasoning 
+
+Fallacies - mistakes of reasoning 
+- while there are factual mistakes where you just get facts wrong like my age being 18, there are also mistakes of reasoning like believing there are round squares 
+Types:
+- Inconsistency: inconsistent or self defeating 
+- Inappropriate presumption: assumption is made that isnt reasonable to accept given the context 
+- Relevance: irrelevant reason being used or relevant reason ignored 
+- Insufficiency: evidence supporting is weak
+
+Ad hominem: a theory discarded due to bias
+
+Ad ignorantiam (appeal to ignorance)
+- to believe in a claim due to lack of evidence against it
+
+Ad misericordiam(pity)
+
+Ad populum (popularity)
+
+Petito principii:Begging the question: Arguing a claim where the claim is assumed in premise
+
+Complex/loaded question 
+
+Composition, assuming a whole will have same properties as each part individually , division is opposite 
+
+False dilemma- presenting a limited set of alternatives when there are other options worth considering 
+
+Gambler’s fallacy 
+
+Genetic fallacy- X derives from Y, Y is trait, so X is trait
+
+Post hoc - “after this, therefore because of this”
+
+Red herring - irrelevant issue raised which diverts attention from main issue
+
+Slippery Slope - arguing that accepting one claim would mean accepting another claim which happens to be outrageous, and another, etc. Basically one claim leading to multiple more that are unreasonable 
+
+Straw man - putting the opponent in an implausible situation where you can easily defeat them when that is not their situation 
+
+Suppressed evidence - cherrypicking
 
 
 
